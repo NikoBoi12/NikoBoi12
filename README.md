@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NikoBoi12
+- 👀 I’m interested in Programming, Game Development, Creating projects, and learning!
+- 🌱 I’m currently learning Mobile Development, Godot, website building, and C
+- 📫 How to reach me troelfs@hotmail.com
