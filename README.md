@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/>
+<h1>Hi There! <br/>
 I'm a Software Engineer, Game Developer, and Backend Developer.
 
 Hope you enjoy my profile.
