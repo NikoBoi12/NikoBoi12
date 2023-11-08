@@ -1,10 +1,9 @@
 <h1>Hi, I'm Tyler! <br/>
-I'm a Software Engineer, Game Developer, and Backend Programmer
+I'm a Software Engineer, Game Developer, and Backend Developer.
 
-<h2>My Projects </h2>
+Hope you enjoy my profile.
 
-- <b>Project Souls Fighter Showcase and Code samples</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2>Please Check Out My Prijects!</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
