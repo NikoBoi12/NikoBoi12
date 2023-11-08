@@ -3,7 +3,7 @@ I'm a Software Engineer, Game Developer, and Backend Developer.
 
 Hope you enjoy my profile.
 
-<hr>Please Check Out My Prijects!
+<hr>Please Check Out My Projects!
 
 
 <hr> 🤳 Connect with me:
