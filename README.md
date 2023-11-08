@@ -7,6 +7,8 @@ Hope you enjoy my profile.
 
 <hr> Contributed to over a million visits!
 
+<hr> Languages: Lua, C#, GDScript, Java, and Python
+
 <hr> 🤳 Connect with me:
 
 Email: Troelfs@hotmail.com
