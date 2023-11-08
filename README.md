@@ -5,6 +5,7 @@ Hope you enjoy my profile.
 
 <hr>Please Check Out My Projects!
 
+<hr> Contributed to over a million visits!
 
 <hr> 🤳 Connect with me:
 
