@@ -3,9 +3,9 @@ I'm a Software Engineer, Game Developer, and Backend Developer.
 
 Hope you enjoy my profile.
 
-<h2>Please Check Out My Prijects!</h2>
+<hr>Please Check Out My Prijects!
 
 
-<h2> 🤳 Connect with me:</h2>
+<hr> 🤳 Connect with me:
 
 Email: Troelfs@hotmail.com
